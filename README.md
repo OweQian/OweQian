@@ -18,7 +18,7 @@
 
 
 <p align="center">
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=OweQian&style=flat&color=brightgreen"> •
+<img src="https://gpvc.arturio.dev/OweQian" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •   •
   <a href="https://user-badge.committers.top/india_private/OweQian"><img src="https://user-badge.committers.top/india_private/OweQian.svg"></a> •
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/OweQian?label=Followers&style=social"> •
   <img src="https://img.shields.io/github/stars/OweQian?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
