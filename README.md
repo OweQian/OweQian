@@ -8,12 +8,12 @@
 
 <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
 
-- 🔭 𝙸’𝚖 a front end developer from China**
-- 🌱 I do open source for fun.**
-- 👯 I’m currently learning node.**
-- 🧑‍💻 I’m currently contributing to <a href="https://github.com/IoTSharp/ClientApp">IoTSharp/ClientApp</a> and <a href="https://github.com/IoTSharp/Home">IoTSharp/Home</a>.**
-- 👯 I’m doing a UI frame named <a href="https://github.com/OweQian/Modric-UI">Modric-UI</a>.**
-- 📫 How to contact me? Email: 1510106069@qq.com、WeChat: 1510106069.**
+- 🔭 𝙸’𝚖 a front end developer from China.
+- 🌱 I do open source for fun.
+- 👯 I’m currently learning node.
+- 🧑‍💻 I’m currently contributing to <a href="https://github.com/IoTSharp/ClientApp">IoTSharp/ClientApp</a> and <a href="https://github.com/IoTSharp/Home">IoTSharp/Home</a>.
+- 👯 I’m doing a UI frame named <a href="https://github.com/OweQian/Modric-UI">Modric-UI</a>.
+- 📫 How to contact me? Email: 1510106069@qq.com、WeChat: 1510106069.
 
 <br/>
 <br/>
@@ -27,15 +27,8 @@
   <img src="https://img.shields.io/github/stars/OweQian?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
   <a href="https://github.com/sponsors/OweQian"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 </p>
-<!-- <p align="center">
-  <code>
-    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2FJayantGoel001" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
-  </code>
-</p> -->
 
 #
-
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <p align="center">
   <img height="150" width="150" src="WEBP/left.webp">
@@ -97,8 +90,6 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=OweQian&theme=react-dark&hide_border=true&area=true)
 
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
-
 <h4 align="center">
   
 ```diff
@@ -127,160 +118,6 @@
   
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
 
-<br/>
-
-#
-
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-
-<img align="right" height="330px" width="450px" src="https://wakatime.com/share/@OweQian/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
-
-<br>
-<br>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C546%20hrs%209%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 5,402 Contributions in the Year 2023
- > 
-> 📦 11.8 MB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 202 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    123 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.58% 
-🌆 Daytime    461 commits    ███████████░░░░░░░░░░░░░░   47.14% 
-🌃 Evening    221 commits    █████░░░░░░░░░░░░░░░░░░░░   22.6% 
-🌙 Night      173 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.69%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       194 commits    █████░░░░░░░░░░░░░░░░░░░░   19.84% 
-Tuesday      131 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.39% 
-Wednesday    156 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.95% 
-Thursday     129 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.19% 
-Friday       130 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.29% 
-Saturday     143 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.62% 
-Sunday       95 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.71%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    22 hrs 25 mins      █████████████████████████   100.0%
-
-🔥 Editors: 
-Browser                  22 hrs 25 mins      █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-examples                 22 hrs 25 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  22 hrs 25 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         20 repos            █████░░░░░░░░░░░░░░░░░░░░   20.41% 
-Python                   17 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.35% 
-C++                      14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-JavaScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
-HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.18%
-
-```
-
-
-
- Last Updated on 07/02/2023 02:06:08 UTC
-<!--END_SECTION:waka-->
-
-<p align="center">
-  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
-  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
-</p>
-
-#
-
-<p align="center">
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
-  <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
-</p>
-
-<p align="center">
-  <img width="75%" src="metrics.svg"/>
-  <img src="metrics.detailed.svg" width="75%"/>
-</p>
-
-<h1>
-  Connect With Me
-  <img src="GIF/Handshake.gif" height="25px">
-</h1>
-
-<p align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="SVG/linkedin.svg"/></code>
-  </a>
-  <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
-    <code><img  height="60" width="60" src="SVG/facebook.svg"/></code>
-  </a>
-  <a href="https://www.instagram.com/jayantgoel001/" target="_blank">
-    <code><img height="60" width="60" src="SVG/instagram.svg"/></code>
-  </a>
-  <a href="https://twitter.com/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="SVG/twitter.svg"/></code>
-  </a>
-  <a href="https://dev.to/jayantgoel001">
-    <code><img src="SVG/dev.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
-  </a>     
-</p>
-<br/>
-
-<p align="center">
-  <a href="https://www.hackerrank.com/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="WEBP/hr.webp"/></code>
-  </a>
-
-  <a href="http://www.codeforces.com/profile/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="WEBP/cf.webp"/></code>
-  </a>
-
-  <a href="https://www.hackerearth.com/@jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="SVG/he.svg"/></code>
-  </a>
-
-  <a href="https://www.codechef.com/users/jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="SVG/cc.svg"/></code>
-  </a>
-  
-  <a href="https://leetcode.com/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="WEBP/lc.webp"/></code>
-  </a>
-</p>
-
-<br/>
 <br/>
 
 <div align="center">
