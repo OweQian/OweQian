@@ -8,9 +8,9 @@
 
 - 🔭 𝙸’𝚖 a front end developer from China.
 - 🌱 I do open source for fun.
-- 👯 I’m currently learning node.
-- 🧑‍💻 I’m currently contributing to <a href="https://github.com/IoTSharp/ClientApp">IoTSharp/ClientApp</a> and <a href="https://github.com/IoTSharp/Home">IoTSharp/Home</a>.
-- 👯 I’m doing a UI frame named <a href="https://github.com/OweQian/Modric-UI">Modric-UI</a>.
+- 👯 𝙸’𝚖 currently learning node.
+- 🧑‍💻 𝙸’𝚖 currently contributing to <a href="https://github.com/IoTSharp/ClientApp">IoTSharp/ClientApp</a> and <a href="https://github.com/IoTSharp/Home">IoTSharp/Home</a>.
+- 😄 𝙸’𝚖 doing a UI frame named <a href="https://github.com/OweQian/Modric-UI">Modric-UI</a>.
 - 📫 How to contact me? Email: 1510106069@qq.com、WeChat: 1510106069.
 
 <br/>
