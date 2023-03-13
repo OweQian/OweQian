@@ -39,8 +39,6 @@
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=webpack"></code>
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=vite"></code>
 
-<br/>
-
 #
 
 <br/>
