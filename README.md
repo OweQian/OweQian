@@ -14,9 +14,10 @@
 <br/>
 <br/>
 
-**❤️ <strong>I love : </strong>**  
-
-<br/>
+<details open="">
+<summary>
+  ❤️ <strong>I love : </strong>
+</summary>
 <br/>
 
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=html"></code>
