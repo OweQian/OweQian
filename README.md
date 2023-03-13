@@ -21,22 +21,12 @@
   
 <br/>
 
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=html"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=css"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=sass"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=js"></code>
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=ts"></code>
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=nodejs"></code>
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=react"></code>
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=vue"></code>
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=cpp"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=electron"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=jest"></code>
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=nestjs"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=nextjs"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=nginx"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=webpack"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=vite"></code>
 
 #
 
