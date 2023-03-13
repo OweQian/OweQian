@@ -29,7 +29,6 @@
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=nodejs"></code>
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=react"></code>
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=vue"></code>
-
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=cpp"></code>
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=electron"></code>
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=jest"></code>
