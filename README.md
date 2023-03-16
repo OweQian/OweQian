@@ -7,7 +7,7 @@
 
 - 🔭 𝙸’𝚖 a front end developer from China.
 - 🌱 𝙸 do open source for fun.
-- 👯 𝙸’𝚖 currently learning node.
+- 👯 𝙸’𝚖 currently learning C.
 
 #
 
