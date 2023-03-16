@@ -8,7 +8,7 @@
 - 🔭 𝙸’𝚖 a front end developer from China.
 - 🌱 𝙸 do open source for fun.
 - 👯 𝙸’𝚖 currently learning C.
-- 🖥️ Learn More About Me: [OweQian](http://oweqian.xyz)
+- 🤔 Discover more about me at [OweQian](http://oweqian.xyz)
 
 #
 
