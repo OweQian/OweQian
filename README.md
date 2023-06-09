@@ -9,7 +9,7 @@
 - 📍 Beijing China.
 - 🌱 𝙸 do open source for fun.
 - 👯 𝙸’𝚖 currently learning C.
-- 🍑 LeetCode: [pu-tong](https://leetcode.cn/u/pu-tong/)
+- 🍑 LeetCode: [pu-tong](https://leetcode.cn/u/pu-tong/).
 
 More details on [OweQian](http://oweqian.xyz).
 
