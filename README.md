@@ -12,5 +12,3 @@
 - 🍑 LeetCode:「pu-tong」(https://leetcode.cn/u/pu-tong/)
 
 More details on「OweQian」(http://oweqian.xyz).
-  
-<br/>
