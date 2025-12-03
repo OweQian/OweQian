@@ -6,9 +6,9 @@
 <br/>
 
 - 🍒 A front end developer.
-- 📍 Beijing China.
+- 📍 Chengdu China.
 - 🌱 𝙸 do open source for fun.
-- 👯 𝙸’𝚖 currently learning C.
+- 👯 𝙸’𝚖 currently learning Python.
 
 More details on [OweQian](http://oweqian.xyz).
 
