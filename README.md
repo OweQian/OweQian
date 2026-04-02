@@ -7,7 +7,6 @@
 
 - 🍒 A front end developer.
 - 📍 Wuxi China.
-- 🌱 𝙸 do open source for fun.
 - 👯 𝙸’𝚖 currently learning Python.
 
 More details on [OweQian](http://oweqian.xyz).
