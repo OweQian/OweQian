@@ -6,7 +6,7 @@
 <br/>
 
 - 🍒 A front end developer.
-- 📍 Chengdu China.
+- 📍 Wuxi China.
 - 🌱 𝙸 do open source for fun.
 - 👯 𝙸’𝚖 currently learning Python.
 
